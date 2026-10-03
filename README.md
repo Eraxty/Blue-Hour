@@ -8,7 +8,7 @@ Inspired by the legendary Tame Impala. I wanted to make a dreamy psychedelic son
 
 ![BLUE HOUR](image.png)
 
-[Listen on Strudel](https://cdn.hackclub.com/01a10232-e717-7392-bf16-95ed61e7bc84/blue_hour_audio.mp4)
+[Listen Here](https://cdn.hackclub.com/01a10232-e717-7392-bf16-95ed61e7bc84/blue_hour_audio.mp4)
 
 </div>
 
@@ -26,6 +26,9 @@ Inspired by the legendary Tame Impala. I wanted to make a dreamy psychedelic son
 - go to strudel.cc paste the code 
 - or click [Here](https://cdn.hackclub.com/01a10232-e717-7392-bf16-95ed61e7bc84/blue_hour_audio.mp4)
 - or go to releases tab and download the song
+
+## Playing on strudel 
+- to play in strudel.cc just copy and paste the code from the 'song.strudel' file
 
 # License
 
