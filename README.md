@@ -31,5 +31,4 @@ Inspired by the legendary Tame Impala. I wanted to make a dreamy psychedelic son
 - to play in strudel.cc just copy and paste the code from the 'song.strudel' file
 
 # License
-
-Why do u need a licence !?
+MIT
