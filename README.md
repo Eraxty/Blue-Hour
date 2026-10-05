@@ -14,6 +14,13 @@ Inspired by the legendary Tame Impala. I wanted to make a dreamy psychedelic son
 
 ---
 
+
+## Why Blue Hour
+- bcs thats what i thought while listening to this masterpiece
+
+## How did i make it
+- Just random curiosity and trying again and again till i get it right
+
 # Screenshot
 ![ss](str.png)
 
